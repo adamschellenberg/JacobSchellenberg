@@ -1,0 +1,16 @@
+.header-main {
+    background-color: #FAF9F9;
+    padding-left: 50px;
+    padding-bottom: 25px;
+    padding-top: 35px;
+    padding-right: 20%;
+}
+
+#header-sub {
+    color: #2B303A;
+}
+
+.blockquote {
+    font-size: 1.5rem;
+    color: #A41D13;
+}
